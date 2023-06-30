@@ -1,0 +1,417 @@
+:: StoryTitle
+Kommissionierung Ablauf
+
+
+:: StoryData
+{
+  "ifid": "B6276E91-F929-4B8F-8376-4E9B653F7497",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: \ Sie transportieren Kommissionierte Artikel zur Versandabteilung 1 {"position":"800,1000","size":"100,100"}
+
+
+
+:: \ Sie transportieren Kommissionierte Artikel zur Versandabteilung 4 {"position":"3325,1000","size":"100,100"}
+
+
+
+:: \ Sie transportieren Kommissionierte Artikel zur Versandabteilung 8 {"position":"0,200","size":"100,100"}
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie Quittieren die Entnahme {"position":"6050,100","size":"100,100"}
+Die Artikelentnahme haben Sie durch das eingeben oder auswählen der entnahmemenge am Display bestätigt und durch die verbindung via WLAN zum Warenwirtschaftssystem, wurde die Entnahme auch gleich in der Lagerfachdatei verbucht.
+
+
+Sie waren schon fleißig und haben bereits mehrere Aufträge erfolgreich auf die gleiche Weise kommissioniert, der Kommissionierbehälter ist nun bereits überfüllt.
+Wählen Sie Ihren nächsten Schritt:
+
+[[Sie besorgen sich einen weiteren Kommisionirbehälter]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 8]]
+
+
+:: Sie Quittieren die Entnahme 1 {"position":"800,775","size":"100,100"}
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellen, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie Quittieren die Entnahme 2 {"position":"1725,800","size":"100,100"}
+Sie haben einige Schritte übersprungen!
+Sie Sind noch nicht beim Lagerfach!
+Sie haben noch keine Artikel entnommen!
+Wohin werden Sie die Kommissionierten Artikel geben?
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie Quittieren die Entnahme 3 {"position":"2550,750","size":"100,100"}
+
+
+
+:: Sie Quittieren die Entnahme 4 {"position":"3325,750","size":"100,100"}
+
+
+
+:: Sie Quittieren die Entnahme 5 {"position":"4075,750","size":"100,100"}
+
+
+
+:: Sie Quittieren die Entnahme 6 {"position":"4800,725","size":"100,100"}
+
+
+
+:: Sie Quittieren die Entnahme 8 {"position":"100,200","size":"100,100"}
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter {"position":"6575,125","size":"100,100"}
+Auch der zweite Kommissionierbehälter ist vollständig gefüllt, und Sie haben alle Aufträge erfolgreich abgearbeitet.
+Sie sind fast fertig, wählen Sie Ihre Letzte Tätigkeit:
+
+
+
+
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung]]
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 1 {"position":"800,900","size":"100,100"}
+Sie haben den gewählten Behälter noch nicht überprüft um sichergestellen, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 2 {"position":"1750,900","size":"100,100"}
+Sie haben einige Schritte übersprungen!
+
+Sie besorgen sich einen weiteren Behälter bedeutet, erst wenn der erste voll ist brauchen Sie einen Weiteren. 
+Sie nehmen zuerst einen leeren Kommissionierbehälter!
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 3 {"position":"2550,875","size":"100,100"}
+
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 4 {"position":"3325,875","size":"100,100"}
+
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 5 {"position":"4075,875","size":"100,100"}
+
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 6 {"position":"4800,850","size":"100,100"}
+
+
+
+:: Sie besorgen sich einen weiteren Kommisionirbehälter 7 {"position":"5500,900","size":"100,100"}
+
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach {"position":"5500,100","size":"100,100"}
+Sie haben die Entnahmemenge am Display bestätigt, dank der WLAN-Verbindung zum Warenwirtschaftssystem wird die Entnahme auch gleichzeitig in der Lagerfachdatei verbucht uns quittiert.
+
+Wählen Sie den nächsten Schritt:
+
+
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 7]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 7]]
+[[Sie Quittieren die Entnahme]]
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 1 {"position":"800,650","size":"100,100"}
+Sie befinden sich noch nicht am Lagerplatz. 
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellen, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 2 {"position":"1725,650","size":"100,100"}
+Sie haben einige Schritte übersprungen!
+Sie Sind noch nicht beim Lagerfach!
+Wohin werden Sie die Kommissionierten Artikel geben?
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 3 {"position":"2550,625","size":"100,100"}
+
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 4 {"position":"3325,625","size":"100,100"}
+
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 5 {"position":"4075,600","size":"100,100"}
+
+
+
+:: Sie entnehmen den Artikel aus dem Lagerfach 8 {"position":"225,200","size":"100,100"}
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie nehmen einen leeren Kommissionier-Behälter {"position":"2550,75","size":"100,100"}
+Welchen Schritt werden Sie als nächstes durchführen, nachdem Sie einen passenden Kommissionierbehälter und das entsprechende Förderzeug ausgewählt haben?
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 3]]
+[[Sie scannen den Barcode am Lagerplatz 3]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 3]]
+[[Sie scannen den Code am Kommissionier-Artikel 3]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 3]]
+[[Sie gehen oder fahren zum Lagerort]]
+[[Sie Quittieren die Entnahme 3]]
+[[Sie entnehmen den Artikel aus dem Lagerfach 3]]
+
+
+:: Sie nehmen einen leeren Kommissionier-Behälter 1 {"position":"800,175","size":"100,100"}
+Sie haben einen Kommissionierbehälter gewählt, welchen Schritt werden Sie als nächstes machen?
+
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 8]]
+[[Sie ordnen die Kommissionier-Aufträge 8]]
+[[Sie scannen den Barcode am Lagerplatz 8]]
+[[Sie scannen den Code am Kommissionier-Artikel 8]]
+[[ Sie transportieren Kommissionierte Artikel zur Versandabteilung 8]]
+[[Sie gehen oder fahren zum Lagerort 8]]
+[[Sie Quittieren die Entnahme 8]]
+
+
+:: Sie nehmen einen leeren Kommissionier-Behälter 4 {"position":"3325,350","size":"100,100"}
+
+
+
+:: Sie scannen den Barcode am Lagerplatz {"position":"4100,75","size":"100,100"}
+Nachdem Sie den Barcode am Lagerfach gescannt haben und die Plausibilitätsprüfung bestätigt hat, dass Sie sich am richtigen Lagerplatz befinden, was werden Sie als nächsten Schritt unternehmen?
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 5]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 5]]
+[[Sie scannen den Code am Kommissionier-Artikel]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 5]]
+[[Sie Quittieren die Entnahme 5]]
+[[Sie scannen den Code am Kommissionier-Artikel]]
+
+
+:: Sie scannen den Barcode am Lagerplatz 1 {"position":"800,425","size":"100,100"}
+Sie befinden sich noch nicht am Lagerplatz. 
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellen, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie scannen den Barcode am Lagerplatz 2 {"position":"1650,425","size":"100,100"}
+Sie haben etwas übergangen!
+Wohin werden Sie die Kommissionierten Artikel geben?
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie scannen den Barcode am Lagerplatz 3 {"position":"2550,375","size":"100,100"}
+
+
+
+:: Sie scannen den Barcode am Lagerplatz 8 {"position":"475,200","size":"100,100"}
+Sie befinden sich noch nicht am Lagerplatz. 
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie scannen den Code am Kommissionier-Artikel {"position":"4800,50","size":"100,100"}
+Nachdem Sie auch den Artikel gescannt haben und auch dieser durch die Plausibikitätsprüfung als richtig befunden wurde, die Artikelnummer stimmt mit der Artikelnummer auf dem Auftrag überein, können Sie nun folgende Tätigkeit durchführen:
+
+[[Sie entnehmen den Artikel aus dem Lagerfach]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 6]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 6]]
+[[Sie Quittieren die Entnahme 6]]
+[[Sie entnehmen den Artikel aus dem Lagerfach]]
+
+
+:: Sie scannen den Code am Kommissionier-Artikel 1 {"position":"800,525","size":"100,100"}
+Sie befinden sich noch nicht am Lagerplatz. 
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellen, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie scannen den Code am Kommissionier-Artikel 2 {"position":"1650,550","size":"100,100"}
+Sie haben einige Schritte übersprungen!
+Sie Sind noch nicht beim Lagerfach!
+Wohin werden Sie die Kommissionierten Artikel geben?
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie scannen den Code am Kommissionier-Artikel 3 {"position":"2550,500","size":"100,100"}
+
+
+
+:: Sie scannen den Code am Kommissionier-Artikel 4 {"position":"3325,500","size":"100,100"}
+
+
+
+:: Sie scannen den Code am Kommissionier-Artikel 8 {"position":"325,200","size":"100,100"}
+Sie befinden sich noch nicht am Lagerplatz. 
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung {"position":"6925,175","size":"100,100"}
+Um Ihren verdiente Pause einzuleiten, stellen Sie Ihre Kommissionierbehälter auf die dafür vorgesehene Abgabefläche. 
+Sie scannen den Code für den Abgabebereich, um ihn mit dem Auftrag zu verknüpfen (Verheiraten). 
+Diese Vorgehensweise ist notwendig, um die kommissionierten Artikel den entsprechenden Kunden- oder internen Aufträgen zuzuordnen.
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 2 {"position":"1750,1025","size":"100,100"}
+Sie haben einige Schritte übersprungen!
+Sie können noch nichts in die Versandabteilung bringen!
+Sie besorgen sich einen weiteren Behälter bedeutet, erst wenn der erste voll ist brauchen Sie einen Weiteren. 
+Sie nehmen zuerst einen leeren Kommissionierbehälter!
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 3 {"position":"2550,1000","size":"100,100"}
+
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 5 {"position":"4075,1000","size":"100,100"}
+
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 6 {"position":"4800,975","size":"100,100"}
+
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 7 {"position":"5500,1025","size":"100,100"}
+
+
+
+:: Sie transportieren Kommissionierte Artikel zur Versandabteilung 8 {"position":"6100,1025","size":"100,100"}
+
+
+
+:: Sie gehen oder fahren zum Lagerort {"position":"3325,75","size":"100,100"}
+Nachdem Sie gemäß dem Kommissionierauftrag zum ersten Lagerplatz gegangen oder gefahren sind und sich nun vor dem vermutlich richtigen Lagerplatz befinden, was sollten Sie als nächstes unternehmen?
+
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 4]]
+[[Sie scannen den Barcode am Lagerplatz]]
+[[Sie scannen den Code am Kommissionier-Artikel 4]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 4]]
+[[Sie nehmen einen leeren Kommissionier-Behälter 4]]  
+[[ Sie transportieren Kommissionierte Artikel zur Versandabteilung 4]]
+[[Sie Quittieren die Entnahme 4]][
+
+
+:: Sie gehen oder fahren zum Lagerort 1 {"position":"800,300","size":"100,100"}
+Bevor Sie zum Lagerplatz fahren, müssen Sie zunächst die Kommissionierlisten ordnen und sich einen Überblick über die Artikel verschaffen. Auch der Kommissionierbehälter sollte auf die Artikel abgestimmt sein. 
+Erst dann sind Sie bereit, mit dem nächsten Schritt fortzufahren.
+
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie gehen oder fahren zum Lagerort 2 {"position":"1600,300","size":"100,100"}
+Haben Sie nicht etwas vergessen?
+Wohin werden Sie die Kommissionierten Artikel geben?
+Am besten Sie gehen nochmals zu dem Schritt zurück:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie gehen oder fahren zum Lagerort 8 {"position":"625,200","size":"100,100"}
+Dieser Schritt ist noch lange nicht fällig!
+Sie haben auch den gewählten Behälter noch nicht überprüft und sichergestellt, dass er passt. 
+Dies liegt daran, dass Sie die Kommissionierlisten noch nicht geordnet haben und sich die Artikel noch nicht angesehen haben. 
+Es wird vorgeschlagen, dass Sie mit diesem Schritt fortfahren:
+
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+
+
+:: Sie ordnen die Aufträge und informieren sich über die Artikel {"position":"1750,50","size":"100,100"}
+Sie haben die Kommissionieraufträge präzise sortiert, um eine optimale Reihenfolge der Entnahmestellen zu gewährleisten. Bei der beleglosen Kommissionierung haben Sie sich einen Überblick darüber verschafft, welche Artikel zu kommissionieren sind und ihre Größe bzw. Gewicht berücksichtigt.
+Welchen Schritt werden Sie nun als nächstes tätigen?
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 2]]
+[[Sie scannen den Barcode am Lagerplatz 2]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 2]]
+[[Sie scannen den Code am Kommissionier-Artikel 2]]
+[[Sie nehmen einen leeren Kommissionier-Behälter]]
+[[Sie transportieren Kommissionierte Artikel zur Versandabteilung 2]]
+[[Sie gehen oder fahren zum Lagerort 2]]
+[[Sie Quittieren die Entnahme 2]]
+[[Sie entnehmen den Artikel aus dem Lagerfach 2]]
+
+
+:: Sie ordnen die Kommissionier-Aufträge 8 {"position":"975,175","size":"100,100"}
+Sie sind spät darauf gekommen, dass Sie auch die Kommissionierlisten orden sollten! 
+Jetzt wissen Sie auch, dass Sie den falschen Behälter für diese Artikel gewählt haben!
+Ich glaube Sie müssen einen Anderen Behälter wählen!
+
+[[Sie nehmen einen leeren Kommissionier-Behälter]]
+
+
+:: Start {"position":"925,25","size":"100,100"}
+
+https://drive.google.com/drive/recent?q=type:image
+
+Sie sind ein Kommissionirer oder eine Kommissioniererin und haben soeben mehrere Kommissioniraufträge erhalten. Welche Tätigkeit führen Sie nun als nächstes aus?
+
+
+[[Sie entnehmen den Artikel aus dem Lagerfach 1]]
+[[Sie ordnen die Aufträge und informieren sich über die Artikel]]
+[[Sie scannen den Barcode am Lagerplatz 1]]
+[[Sie besorgen sich einen weiteren Kommisionirbehälter 1]]
+[[Sie scannen den Code am Kommissionier-Artikel 1]]
+[[Sie nehmen einen leeren Kommissionier-Behälter 1]]
+[[ Sie transportieren Kommissionierte Artikel zur Versandabteilung 1]]
+[[Sie gehen oder fahren zum Lagerort 1]]
+[[Sie Quittieren die Entnahme 1]
